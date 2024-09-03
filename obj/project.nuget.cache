@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5TN0yq+3iY481ua3S1sFyI6Gc2Tvf7rmLOV7Wm4GEDmcWRmf7p4CIrV2bwLtbGRRmf1yFQr72vn8XoRIMT0mJQ==",
+  "success": true,
+  "projectFilePath": "/home/user/git/School-OOP/git.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

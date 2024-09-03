@@ -1,0 +1,15 @@
+/home/user/git/School-OOP/bin/Debug/net8.0/git
+/home/user/git/School-OOP/bin/Debug/net8.0/git.deps.json
+/home/user/git/School-OOP/bin/Debug/net8.0/git.runtimeconfig.json
+/home/user/git/School-OOP/bin/Debug/net8.0/git.dll
+/home/user/git/School-OOP/bin/Debug/net8.0/git.pdb
+/home/user/git/School-OOP/obj/Debug/net8.0/git.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/git/School-OOP/obj/Debug/net8.0/git.AssemblyInfoInputs.cache
+/home/user/git/School-OOP/obj/Debug/net8.0/git.AssemblyInfo.cs
+/home/user/git/School-OOP/obj/Debug/net8.0/git.csproj.CoreCompileInputs.cache
+/home/user/git/School-OOP/obj/Debug/net8.0/git.sourcelink.json
+/home/user/git/School-OOP/obj/Debug/net8.0/git.dll
+/home/user/git/School-OOP/obj/Debug/net8.0/refint/git.dll
+/home/user/git/School-OOP/obj/Debug/net8.0/git.pdb
+/home/user/git/School-OOP/obj/Debug/net8.0/git.genruntimeconfig.cache
+/home/user/git/School-OOP/obj/Debug/net8.0/ref/git.dll
